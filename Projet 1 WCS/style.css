@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.logoOne {
+    width: 200px;
+}
+.logoTwo {
+    width: 200px;
+}
+header {
+    border-bottom: 1mm ridge black;
+    margin: 1px 1px 1px 1px;
+}
+header nav ul {
+    list-style: none;
+    display: inline-block;
+    display: flex;
+}
+header nav {
+    float: right;
+    padding-left: 10px;
+}
+header nav ul li {
+    padding: 60px 150px 50px 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+h1
+{
+    width: 580px;
+    border: 1mm ridge black;
+    margin : 50px 0 50px 50px;
+    padding: 15px;
+}
+.photoOne {
+    margin-left: 100px;
+}
+#photoOne p {
+    text-align: justify;
+}
